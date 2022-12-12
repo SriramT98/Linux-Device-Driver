@@ -1,1 +1,0 @@
-cmd_/home/sriram/Desktop/Training/01_simple_module.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/sriram/Desktop/Training/01_simple_module.ko /home/sriram/Desktop/Training/01_simple_module.o /home/sriram/Desktop/Training/01_simple_module.mod.o;  true
