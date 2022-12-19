@@ -1,0 +1,1 @@
+cmd_/home/sriram/Desktop/sdd/sdd.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/sriram/Desktop/sdd/sdd.ko /home/sriram/Desktop/sdd/sdd.o /home/sriram/Desktop/sdd/sdd.mod.o;  true
